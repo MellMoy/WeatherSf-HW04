@@ -1,4 +1,4 @@
-# Make Git clone project
+# Make git clone project
 
 # Open the project in the IDE
 
